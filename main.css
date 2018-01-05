@@ -1,0 +1,139 @@
+.social{
+  padding-left: 40px;      
+  padding-top: 10px;
+  position: relative; 
+  right: 20px;  
+}
+.leadlist p{
+position:relative; 
+top: 15px; 
+}
+.leadlist li{
+position: relative; 
+top: 15px;
+}
+
+.Leadership img{
+ position: relative; 
+ top: 15px;
+}
+.Projects img{
+padding-bottom:15px; 
+padding-top: 15px;
+}
+
+.hobypic{
+  border-radius: 5%;
+}
+.mirrorpic{
+ border-radius: 5%; 
+}
+.message{
+  font-size: 17px;
+
+}
+.heading:hover{
+  color: #DC7633
+
+}
+.heading{
+
+  font-size: 25px;
+  color: black;  
+}
+
+ul{
+  list-style-type: none;
+}
+.projlist{
+ text-align: center;  
+}
+
+.leadlist{
+  text-align: center; 
+}
+.hook{
+  color: #DC7633;
+  font-size: 25px;  
+}
+.bio{
+  font-weight: 400;
+  font-size: 18px; 
+}
+
+.roboticspic{
+  border-radius:5%;
+}
+
+.pic{
+  border-radius: 50%; 
+
+}
+.software{
+  font-weight: 100; 
+  color: black; 
+}
+.name{
+  font-weight: 100;
+  color: black; 
+}
+
+.name:hover{
+  color: #DC7633; 
+}
+
+.lheader{
+  text-align: center;
+  font-weight: 400;
+ font-size: 30px;  
+}
+
+
+.pheader{
+  text-align: center; 
+  font-weight: 400;
+  font-size: 30px;
+  position: relative;
+  left: 15px;
+}
+
+.greeting{
+  text-align: center; 
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  
+}
+
+
+.initial p{
+  text-align: center; 
+
+}
+.prawal {
+  position: relative;
+  bottom: 10px; 
+
+}
+
+.jumbotron{
+  display: flex; 
+  background-color: #E59866; 
+  background: url(sky2.jpg);
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+i{
+  cursor: pointer;
+  color:  rgba(0, 0, 0, .44)
+   
+}
+
+i:hover{
+  color: #DC7633;
+}
